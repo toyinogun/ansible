@@ -1,5 +1,5 @@
 [gcp-host]
-35.204.46.147 ansible_ssh_private_key_file=/Users/rahulwagh/.ssh/aws_ec2_terraform
+192.168.88.131 ansible_ssh_private_key_file=/Users/toyinogunseinde/.ssh/ansible_demo
 
 
 
